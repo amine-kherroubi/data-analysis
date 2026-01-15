@@ -2,12 +2,16 @@
 
 <img width="1149" height="645" alt="image" src="https://github.com/user-attachments/assets/22afcee3-4cc2-4e2c-9fef-4ec8052934ac" />
 
+## Summary
+
 This repository contains data analysis on obesity levels based on eating habits and physical activity. It uses Multiple Correspondence Analysis (MCA) with two approaches to handle quantitative variables, exploring relationships between demographic, behavioral, and health-related factors.
 
 ## Contents
 
 - Scripts for data preprocessing and MCA
 - Visualizations of results
+- Study report (FRENCH)
+- Presentation slides (FRENCH)
 
 ## Dataset
 
