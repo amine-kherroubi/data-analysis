@@ -1,0 +1,3 @@
+# Reduce
+
+Given a parser in [[State|state]] $s$ with a top-of-stack sequence matching $\beta$, **reducing** by a production $A \rightarrow \beta$ consists in popping $|\beta|$ symbols and states from the stack, letting $t$ denote the state now on top of the stack, and then pushing the nonterminal $A$ and the state GOTO$[t, A]$ onto the stack. This action is applied when a complete [[Handle|handle]] corresponding to $\beta$ has been recognized.
