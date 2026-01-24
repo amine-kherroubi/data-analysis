@@ -1,1 +1,0 @@
-**Network virtualization** is a form of virtualization that makes network devices (as switches) virtual. It also makes network functions (as routing, DHCP, fire-walling, NAT, etc.) virtual.

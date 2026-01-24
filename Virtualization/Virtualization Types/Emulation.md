@@ -1,1 +1,0 @@
-An **emulator** allows applications written for a given hardware environment to run on a very different hardware environment, such as a different processor type.
