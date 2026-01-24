@@ -1,0 +1,3 @@
+**Containerization** is a strategy which consists of carrying out the virtualization process at the kernel level of the host system. Therefore, it does not involve an additional virtual layer. This form of virtualization consists of creating virtual environments (containers), which will each duplicate certain components of the host OS. Virtualization capabilities are an integral part of the host system and **the hypervisor no longer exists**.
+
+Containerization is supported by container engines.

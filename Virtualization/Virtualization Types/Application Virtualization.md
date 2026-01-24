@@ -1,0 +1,1 @@
+**Application virtualization** is a software technology that will improve the portability and compatibility of applications by isolating them from the OS on which they are executed. It requires the addition of an additional software layer between a given program and the OS.
