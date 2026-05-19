@@ -1,5 +1,9 @@
 # Obesity Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 <img width="1149" height="645" alt="image" src="https://github.com/user-attachments/assets/22afcee3-4cc2-4e2c-9fef-4ec8052934ac" />
 
 ## Summary
